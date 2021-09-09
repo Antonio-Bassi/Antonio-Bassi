@@ -7,8 +7,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Plain C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" alt="cplusplus" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Plain C" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="cplusplus" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="cplusplus" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="cplusplus" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" alt="cplusplus" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
