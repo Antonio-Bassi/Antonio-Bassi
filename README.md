@@ -1,5 +1,11 @@
 ## Hello there, welcome to my profile page.
 
+- 🎓 Undergraduate in electrical engineering specialized in telecommunications.
+- 🛠️ Currently working at SPRACE OpenIPMC project as a FAPESP scholarship holder.
+- 🎧 Audio electronics and Digital Signal Processing enthusiast.
+
+##
+
 <div>
   <a href="https://github.com/Antonio-Bassi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Bassi&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
