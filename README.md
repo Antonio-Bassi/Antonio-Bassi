@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Antonio-Bassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Bassi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bassi&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Bassi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bassi&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
