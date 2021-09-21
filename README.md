@@ -27,7 +27,7 @@
 <div>
 <a href="https://www.linkedin.com/in/antoniovgbassi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:antoniovitor.gb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="antonio.bassi@sprace.org.br"><img src="https://sprace.org.br/wp-content/uploads/2018/06/sprace-1.png" target="_blank"></a>
+<a href="mailto:antonio.bassi@sprace.org.br"><img src="https://sprace.org.br/wp-content/uploads/2018/06/sprace-1.png" target="_blank"></a>
 </div>
   
   
