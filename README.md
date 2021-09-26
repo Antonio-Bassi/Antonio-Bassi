@@ -1,4 +1,4 @@
-## Hello there, welcome to my profile page.
+## Hello there! Welcome to my profile page.
 
 - 🎓 Undergraduate in electrical engineering specialized in telecommunications.
 - 🛠️ Currently working at SPRACE OpenIPMC project as a FAPESP scholarship holder.
