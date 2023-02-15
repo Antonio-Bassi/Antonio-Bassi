@@ -3,7 +3,7 @@
 ### A little about myself
 
 - 🎓 Undergraduate in electrical engineering specialized in telecommunications.
-- 🛠️ Currently working at [**SPRACE**]<https://sprace.org.br/> [**OpenIPMC**]<https://cds.cern.ch/record/2744530/plots?ln=en> project as a FAPESP scholarship holder.
+- 🛠️ Currently working at [**SPRACE**](https://sprace.org.br/) [**OpenIPMC**](https://cds.cern.ch/record/2744530/plots?ln=en) project as a FAPESP scholarship holder.
 - 🎧 Audio electronics and Digital Signal Processing enthusiast.
 
 ### GitHub Infometrics
