@@ -2,8 +2,9 @@
 
 ### A little about myself
 
-- 🎓 Bachelor's degree in electrical engineering specialized in telecommunications.
-- 🛠️ Currently working at [**SPRACE**](https://sprace.org.br/) [**OpenIPMC**](https://cds.cern.ch/record/2744530/plots?ln=en) project as a FAPESP scholarship holder.
+- 🎓 Bachelor's degree in Electrical Engineering specialized in telecommunications.
+- 🛠️ Currently working at [**Alfa Instrumentos**](https://www.alfainstrumentos.com.br/) as an Embedded Systems Engineer in Brazil.
+- 🔬 Collaborating in [**OpenIPMC**](https://cds.cern.ch/record/2744530/plots?ln=en) and in High Energy Physics experiments.
 - 🎧 Audio electronics and Digital Signal Processing enthusiast.
 
 <!--### GitHub Infometrics
