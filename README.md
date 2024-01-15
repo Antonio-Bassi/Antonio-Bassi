@@ -14,7 +14,7 @@
 </div>-->
 	
 ### Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,vscode,vim,bash,linux,arduino,raspberrypi,git,github,gitlab,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab,vscode,vim,bash,linux,arduino,raspberrypi,git,github,gitlab,&perline=5)](https://skillicons.dev)
 
 ### Contact Info	
 <div>
