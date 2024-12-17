@@ -3,7 +3,7 @@
 ### A little about myself
 
 - 🎓 Bachelor's degree in Electrical Engineering specialized in telecommunications.
-- 🛠️ Currently working at [**Abdus Salam Centre for Theoretical Physics - Multidisciplinary Laboratory**](https://ictp.it/building/multidisciplinary-laboratory) as an associate researcher for FPGA HDL Design in Trieste, Italy.
+- 🛠️ Currently working at [**Abdus Salam Centre for Theoretical Physics - Multidisciplinary Laboratory**](https://ictp.it/building/multidisciplinary-laboratory) as an associate researcher for FPGA System-On-Chip Design in Trieste, Italy.
 - 🔬 Collaborating in [**OpenIPMC**](https://cds.cern.ch/record/2744530/plots?ln=en) and in High Energy Physics experiment.
 - 🎧 Audio electronics enthusiast.
 - 🎲 Table-top games enthusiast (D&D, WH40K, MTG, ...).
