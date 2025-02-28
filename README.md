@@ -7,7 +7,7 @@
 - 🔬 Collaborating in [**OpenIPMC**](https://cds.cern.ch/record/2744530/plots?ln=en) and in High Energy Physics experiment.
 - 🎧 Audio electronics enthusiast.
 - 🎲 Table-top games enthusiast (D&D, WH40K, MTG, ...).
-- 🤓 Avid comic reader (Watchmen from Alan Moore and David Gibbons is by far my favourite).
+
 <!--### GitHub Infometrics
 <div>
   <a href="https://github.com/Antonio-Bassi">
@@ -31,7 +31,7 @@
 &emsp;
 <a href="mailto:antoniovitor.gb@gmail.com"><img height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
 &emsp;
-<a href="mailto:antonio.bassi@sprace.org.br"><img height="40" width="170" src="https://sprace.org.br/wp-content/uploads/2018/06/sprace-1.png" target="_blank"></a>
+<a href="mailto:agrossi@ictp.it"><img height="80" width="300" src="https://www.triesteconoscenza.it/sites/default/files/media/school/ictp-logo-small.png" target="_blank"></a>
 &emsp;
 </div>
   
