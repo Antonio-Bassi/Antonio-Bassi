@@ -20,32 +20,49 @@
     <td valign="top" width="50%">
       <h3>Languages</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab" />
+        <img src="https://skillicons.dev/icons?i=c" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=cpp" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=py" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=matlab" style="margin:10px;" />
       </a>
+<!--       <h3>Text Editors</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=vim" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=neovim" style="margin:10px;" />
+      </a> -->
       <h3>Tools</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,powershell,git,github,gitlab,obsidian&perline=6" />
+        <img src="https://skillicons.dev/icons?i=bash" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=powershell" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=git" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=github" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=gitlab" style="margin:10px;" />
       </a>
     </td>
     <!-- Right Column -->
     <td valign="top" width="50%">
       <h3>Operational Systems</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&perline=5" />
+        <img src="https://skillicons.dev/icons?i=ubuntu" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=debian" style="margin:10px;" />
+        <img src="https://skillicons.dev/icons?i=windows" style="margin:10px;" />
       </a>
+      <h3>Contact Info</h3>
+      <div>
+        <a href="https://www.linkedin.com/in/antoniovgbassi" target="_blank">
+          <img height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" style="margin:10px;" />
+        </a>
+        <a href="mailto:antoniovitor.gb@gmail.com">
+          <img height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" style="margin:10px;" />
+        </a>
+        <a href="mailto:agrossi@ictp.it">
+          <img height="60" width="60" src="https://indico.ictp.it/css/ICTP/images/sponsor-logo/ictp_logo_25x25cm_noBG.png" style="margin:10px;" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
-
-### Contact Info	
-<div>
-<a href="https://www.linkedin.com/in/antoniovgbassi" target="_blank"><img height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank"></a>
-&emsp;
-<a href="mailto:antoniovitor.gb@gmail.com"><img height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="_blank"></a>
-&emsp;
-<a href="mailto:agrossi@ictp.it"><img height="80" width="300" src="https://www.triesteconoscenza.it/sites/default/files/media/school/ictp-logo-small.png" target="_blank"></a>
-&emsp;
-</div>
   
   
 
