@@ -14,16 +14,28 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Bassi&layout=compact&langs_count=7&theme=react"/>
 </div>-->
 	
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,matlab)](https://skillicons.dev)
-### Text Editors
-[![My_Skills](https://skillicons.dev/icons?i=vscode,vim,neovim&perline=5)](https://skillicons.dev)
-### Tools
-[![My_Skills](https://skillicons.dev/icons?i=bash,powershell,git,github,gitlab,&perline=6)](https://skillicons.dev)
-### Operational Systems
-[![My_Skills](https://skillicons.dev/icons?i=ubuntu,debian,windows,&perline=5)](https://skillicons.dev)
-### Technologies
-[![My_Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,&perline=5)](https://skillicons.dev)
+<table>
+  <tr>
+    <!-- Left Column -->
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab" />
+      </a>
+      <h3>Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=bash,powershell,git,github,gitlab,obsidian&perline=6" />
+      </a>
+    </td>
+    <!-- Right Column -->
+    <td valign="top" width="50%">
+      <h3>Operational Systems</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ubuntu,debian,windows&perline=5" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Contact Info	
 <div>
